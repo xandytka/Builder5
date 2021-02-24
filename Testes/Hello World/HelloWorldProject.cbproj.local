@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/19 23:36:17.000.898,=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/19 23:36:27.000.796,=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/19 23:37:04.761,=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/19 23:37:10.747,=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/19 23:39:34.180,D:\TreinoBuilder\C++\Hello World\HelloWorld.h=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/09/19 23:39:34.180,D:\TreinoBuilder\C++\Hello World\HelloWorld.dfm=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/09/19 23:39:34.180,D:\TreinoBuilder\C++\Hello World\HelloWorld.cpp=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/09/19 23:39:54.359,D:\TreinoBuilder\C++\Hello World\HelloWorldPCH1.h=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/09/19 23:40:30.594,D:\TreinoBuilder\C++\Hello World\HelloWorldProject.cbproj=C:\Users\Xandy\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
